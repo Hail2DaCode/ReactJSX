@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.Dojo, .needs {
+  text-align: center;
+}
+.Dojo {
+  font-size: 50pt;
+  color: blueviolet
+}
+.needs {
+  font-size: 24pt;
+  color: rgba(223, 66, 66, 0.918)
+
+}
+ul {
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+}
+li {
+  font-size: 16pt;
+  font-weight:300;
+  color:rgb(30, 60, 233);
+}
